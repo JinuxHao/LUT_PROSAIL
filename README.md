@@ -1,0 +1,2 @@
+# LUT_PROSAIL
+使用matlab实现通过ProSAIL模型计算特定指标下的反射率，构建查找表，反演LAI
