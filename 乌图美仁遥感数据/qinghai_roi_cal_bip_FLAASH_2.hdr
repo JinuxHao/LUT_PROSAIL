@@ -1,0 +1,23 @@
+ENVI
+description = {
+  Mosaic Result [Wed Oct 19 15:17:39 2011] [Wed Oct 19 15:24:31 2011]}
+samples = 3341
+lines   = 2171
+bands   = 6
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+map info = {UTM, 1.000, 1.000, 443265.000, 4143105.000, 3.0000000000e+001, 3.0000000000e+001, 46, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_46N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",93.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Micrometers
+reflectance scale factor = 10000.000000
+band names = {
+ 1, 2, 3, 4, 5, 6}
+wavelength = {
+ 0.485000, 0.560000, 0.660000, 0.830000, 1.650000, 2.220000}
+bbl = {
+ 1, 1, 1, 1, 1, 1}
+history = FLAASH 4.7 result (input file=F:\X项目资料\青海乌图美仁9月实验\青海乌图美仁9月实验数据改进实验\数据\波段数据\qinghai_roi_cal_bip, template file=D:\Program Files\ITT\IDL71\lib\hook\tile_template.txt
